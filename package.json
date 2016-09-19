@@ -1,0 +1,25 @@
+{
+  "name": "babel-plugin-program-metadata-literals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joris-van-der-Wel/babel-plugin-program-metadata-literals.git"
+  },
+  "author": "Joris van der Wel <joris@jorisvanderwel.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Joris-van-der-Wel/babel-plugin-program-metadata-literals/issues"
+  },
+  "homepage": "https://github.com/Joris-van-der-Wel/babel-plugin-program-metadata-literals#readme",
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "mocha-sugar-free": "^1.3.1"
+  }
+}
